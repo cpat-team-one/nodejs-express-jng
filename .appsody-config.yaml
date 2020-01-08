@@ -1,0 +1,2 @@
+project-name: nodejs-express-jng
+stack: docker.io/appsody/nodejs-express:0.4
